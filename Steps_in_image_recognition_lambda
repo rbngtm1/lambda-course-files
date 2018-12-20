@@ -1,0 +1,5 @@
+#### Steps
+  * Create an IAM Role with Recognition + Cloudwatch + S3 access
+  * Create an SNS topic 
+  * Create a S3 bucket
+  * Create a Lambda function
